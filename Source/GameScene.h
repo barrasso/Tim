@@ -1,11 +1,13 @@
 //
-//  MainScene.m
+//  GameScene.h
 //  Tim
 //
 //  Created by Mark on 12/26/14.
 //  Copyright (c) 2014 Apportable. All rights reserved.
 //
 
-@interface MainScene : CCNode
+#import "CCNode.h"
+
+@interface GameScene : CCNode
 
 @end

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0443854B1A4E0D7400AB6C8D /* GameScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 0443854A1A4E0D7400AB6C8D /* GameScene.m */; };
 		5B12100C19748281004C1E1D /* BridgeKitV3.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5B12100B19748281004C1E1D /* BridgeKitV3.framework */; };
 		5B121029197484DA004C1E1D /* BridgeKitV3.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5B12100B19748281004C1E1D /* BridgeKitV3.framework */; };
 		5B12102A197484DD004C1E1D /* TimActivity.java in Sources */ = {isa = PBXBuildFile; fileRef = 5B12101B19748413004C1E1D /* TimActivity.java */; };
@@ -168,6 +169,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		044385491A4E0D7400AB6C8D /* GameScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GameScene.h; path = Source/GameScene.h; sourceTree = "<group>"; };
+		0443854A1A4E0D7400AB6C8D /* GameScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GameScene.m; path = Source/GameScene.m; sourceTree = "<group>"; };
 		5B12100919748273004C1E1D /* libEGL.so */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libEGL.so; path = /usr/lib/armv7a/libEGL.so; sourceTree = SDKROOT; };
 		5B12100B19748281004C1E1D /* BridgeKitV3.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = BridgeKitV3.framework; path = System/Library/Frameworks/BridgeKitV3.framework; sourceTree = SDKROOT; };
 		5B12100F197483EE004C1E1D /* ic_launcher.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_launcher.png; sourceTree = "<group>"; };
@@ -298,6 +301,8 @@
 			children = (
 				B7378992180767190076A88C /* MainScene.h */,
 				B7378993180767190076A88C /* MainScene.m */,
+				044385491A4E0D7400AB6C8D /* GameScene.h */,
+				0443854A1A4E0D7400AB6C8D /* GameScene.m */,
 			);
 			name = Scenes;
 			sourceTree = "<group>";
@@ -872,6 +877,7 @@
 			files = (
 				B73789871807631A0076A88C /* main.m in Sources */,
 				7A046D8C19E8A20E004C4763 /* MainScene.m in Sources */,
+				0443854B1A4E0D7400AB6C8D /* GameScene.m in Sources */,
 				5B121038197487F2004C1E1D /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

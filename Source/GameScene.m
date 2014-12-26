@@ -1,15 +1,14 @@
 //
-//  MainScene.m
+//  GameScene.m
 //  Tim
 //
 //  Created by Mark on 12/26/14.
 //  Copyright (c) 2014 Apportable. All rights reserved.
 //
 
-#import "MainScene.h"
 #import "GameScene.h"
 
-@implementation MainScene
+@implementation GameScene
 {
     // physics node
     CCPhysicsNode *_physicsNode;
@@ -20,6 +19,9 @@
 - (void)onEnter
 {
     [super onEnter];
+    
+    // enable physics debug
+    _physicsNode.debugDraw = YES;
 }
 
 - (void)onExit
@@ -28,13 +30,13 @@
     [super onExit];
 }
 
-#pragma mark - Selectors
+#pragma mark - Debug Selectors
 
-- (void)startGame
+- (void)restart
 {
-    // load gamescene
-    CCScene *gameScene = (CCScene *)[CCBReader loadAsScene:@"GameScene"];
-    [[CCDirector sharedDirector] replaceScene:gameScene];
+    // reload mainscene
+    CCScene *mainScene = (CCScene *)[CCBReader loadAsScene:@"MainScene"];
+    [[CCDirector sharedDirector] replaceScene:mainScene];
 }
 
 @end

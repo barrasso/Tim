@@ -7,7 +7,6 @@
 //
 
 #import "MainScene.h"
-#import "GameScene.h"
 
 @implementation MainScene
 {

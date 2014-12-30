@@ -80,7 +80,7 @@
 		</dict>
 		<key>Sprites</key>
 		<dict/>
-		<key>TimBlinking</key>
+		<key>ZimBlinking</key>
 		<dict>
 			<key>isDirty</key>
 			<true/>

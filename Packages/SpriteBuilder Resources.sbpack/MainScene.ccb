@@ -159,7 +159,7 @@
 				<key>customClass</key>
 				<string></string>
 				<key>displayName</key>
-				<string>Tim label</string>
+				<string>Zim label</string>
 				<key>memberVarAssignmentName</key>
 				<string></string>
 				<key>memberVarAssignmentType</key>
@@ -219,7 +219,7 @@
 						<string>Text</string>
 						<key>value</key>
 						<array>
-							<string>Tim</string>
+							<string>Zim</string>
 							<false/>
 						</array>
 					</dict>
@@ -705,7 +705,7 @@
 				<key>customClass</key>
 				<string></string>
 				<key>displayName</key>
-				<string>TimBlinking</string>
+				<string>ZimBlinking</string>
 				<key>memberVarAssignmentName</key>
 				<string></string>
 				<key>memberVarAssignmentType</key>
@@ -727,7 +727,7 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>0.50499999523162842</real>
+							<real>0.50999999046325684</real>
 							<real>0.41200000047683716</real>
 							<integer>0</integer>
 							<integer>2</integer>
@@ -753,9 +753,11 @@
 						<key>type</key>
 						<string>CCBFile</string>
 						<key>value</key>
-						<string>TimBlinking.ccb</string>
+						<string>ZimBlinking.ccb</string>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 		</array>
 		<key>customClass</key>
@@ -895,9 +897,9 @@
 			<key>name</key>
 			<string>Default Timeline</string>
 			<key>offset</key>
-			<real>0.0</real>
+			<real>4.9494791030883789</real>
 			<key>position</key>
-			<real>0.0</real>
+			<real>9.5666666030883789</real>
 			<key>resolution</key>
 			<real>30</real>
 			<key>scale</key>

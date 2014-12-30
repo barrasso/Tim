@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B77F1B2D17B978D7009739AE"
-               BuildableName = "Tim.app"
-               BlueprintName = "Tim iOS"
-               ReferencedContainer = "container:Tim.xcodeproj">
+               BlueprintIdentifier = "7A4035FE19DDEE84007B6E8F"
+               BuildableName = "Zim Mac.app"
+               BlueprintName = "Zim Mac"
+               ReferencedContainer = "container:Zim.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B77F1B2D17B978D7009739AE"
-            BuildableName = "Tim.app"
-            BlueprintName = "Tim iOS"
-            ReferencedContainer = "container:Tim.xcodeproj">
+            BlueprintIdentifier = "7A4035FE19DDEE84007B6E8F"
+            BuildableName = "Zim Mac.app"
+            BlueprintName = "Zim Mac"
+            ReferencedContainer = "container:Zim.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -51,10 +51,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B77F1B2D17B978D7009739AE"
-            BuildableName = "Tim.app"
-            BlueprintName = "Tim iOS"
-            ReferencedContainer = "container:Tim.xcodeproj">
+            BlueprintIdentifier = "7A4035FE19DDEE84007B6E8F"
+            BuildableName = "Zim Mac.app"
+            BlueprintName = "Zim Mac"
+            ReferencedContainer = "container:Zim.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -69,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B77F1B2D17B978D7009739AE"
-            BuildableName = "Tim.app"
-            BlueprintName = "Tim iOS"
-            ReferencedContainer = "container:Tim.xcodeproj">
+            BlueprintIdentifier = "7A4035FE19DDEE84007B6E8F"
+            BuildableName = "Zim Mac.app"
+            BlueprintName = "Zim Mac"
+            ReferencedContainer = "container:Zim.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -142,7 +142,7 @@
 							<key>name</key>
 							<string>spriteFrame</string>
 							<key>time</key>
-							<real>0.83333331346511841</real>
+							<real>3</real>
 							<key>type</key>
 							<integer>7</integer>
 							<key>value</key>
@@ -160,7 +160,7 @@
 							<key>name</key>
 							<string>spriteFrame</string>
 							<key>time</key>
-							<real>0.89999997615814209</real>
+							<real>3.0666666030883789</real>
 							<key>type</key>
 							<integer>7</integer>
 							<key>value</key>
@@ -178,7 +178,7 @@
 							<key>name</key>
 							<string>spriteFrame</string>
 							<key>time</key>
-							<real>0.96666663885116577</real>
+							<real>3.1333334445953369</real>
 							<key>type</key>
 							<integer>7</integer>
 							<key>value</key>
@@ -196,7 +196,7 @@
 							<key>name</key>
 							<string>spriteFrame</string>
 							<key>time</key>
-							<real>1.0333333015441895</real>
+							<real>3.2000000476837158</real>
 							<key>type</key>
 							<integer>7</integer>
 							<key>value</key>
@@ -214,187 +214,7 @@
 							<key>name</key>
 							<string>spriteFrame</string>
 							<key>time</key>
-							<real>1.1000000238418579</real>
-							<key>type</key>
-							<integer>7</integer>
-							<key>value</key>
-							<array>
-								<string>TimBlinking/tim-idle1.png</string>
-								<string>Use regular file</string>
-							</array>
-						</dict>
-						<dict>
-							<key>easing</key>
-							<dict>
-								<key>type</key>
-								<integer>0</integer>
-							</dict>
-							<key>name</key>
-							<string>spriteFrame</string>
-							<key>time</key>
-							<real>1.3333333730697632</real>
-							<key>type</key>
-							<integer>7</integer>
-							<key>value</key>
-							<array>
-								<string>TimBlinking/tim-idle1.png</string>
-								<string>Use regular file</string>
-							</array>
-						</dict>
-						<dict>
-							<key>easing</key>
-							<dict>
-								<key>type</key>
-								<integer>0</integer>
-							</dict>
-							<key>name</key>
-							<string>spriteFrame</string>
-							<key>time</key>
-							<real>1.3999999761581421</real>
-							<key>type</key>
-							<integer>7</integer>
-							<key>value</key>
-							<array>
-								<string>TimBlinking/tim-idle2.png</string>
-								<string>Use regular file</string>
-							</array>
-						</dict>
-						<dict>
-							<key>easing</key>
-							<dict>
-								<key>type</key>
-								<integer>0</integer>
-							</dict>
-							<key>name</key>
-							<string>spriteFrame</string>
-							<key>time</key>
-							<real>1.4666666984558105</real>
-							<key>type</key>
-							<integer>7</integer>
-							<key>value</key>
-							<array>
-								<string>TimBlinking/tim-idle3.png</string>
-								<string>Use regular file</string>
-							</array>
-						</dict>
-						<dict>
-							<key>easing</key>
-							<dict>
-								<key>type</key>
-								<integer>0</integer>
-							</dict>
-							<key>name</key>
-							<string>spriteFrame</string>
-							<key>time</key>
-							<real>1.5333333015441895</real>
-							<key>type</key>
-							<integer>7</integer>
-							<key>value</key>
-							<array>
-								<string>TimBlinking/tim-idle2.png</string>
-								<string>Use regular file</string>
-							</array>
-						</dict>
-						<dict>
-							<key>easing</key>
-							<dict>
-								<key>type</key>
-								<integer>0</integer>
-							</dict>
-							<key>name</key>
-							<string>spriteFrame</string>
-							<key>time</key>
-							<real>1.6000000238418579</real>
-							<key>type</key>
-							<integer>7</integer>
-							<key>value</key>
-							<array>
-								<string>TimBlinking/tim-idle1.png</string>
-								<string>Use regular file</string>
-							</array>
-						</dict>
-						<dict>
-							<key>easing</key>
-							<dict>
-								<key>type</key>
-								<integer>0</integer>
-							</dict>
-							<key>name</key>
-							<string>spriteFrame</string>
-							<key>time</key>
-							<real>2.3333332538604736</real>
-							<key>type</key>
-							<integer>7</integer>
-							<key>value</key>
-							<array>
-								<string>TimBlinking/tim-idle1.png</string>
-								<string>Use regular file</string>
-							</array>
-						</dict>
-						<dict>
-							<key>easing</key>
-							<dict>
-								<key>type</key>
-								<integer>0</integer>
-							</dict>
-							<key>name</key>
-							<string>spriteFrame</string>
-							<key>time</key>
-							<real>2.4000000953674316</real>
-							<key>type</key>
-							<integer>7</integer>
-							<key>value</key>
-							<array>
-								<string>TimBlinking/tim-idle2.png</string>
-								<string>Use regular file</string>
-							</array>
-						</dict>
-						<dict>
-							<key>easing</key>
-							<dict>
-								<key>type</key>
-								<integer>0</integer>
-							</dict>
-							<key>name</key>
-							<string>spriteFrame</string>
-							<key>time</key>
-							<real>2.4666666984558105</real>
-							<key>type</key>
-							<integer>7</integer>
-							<key>value</key>
-							<array>
-								<string>TimBlinking/tim-idle3.png</string>
-								<string>Use regular file</string>
-							</array>
-						</dict>
-						<dict>
-							<key>easing</key>
-							<dict>
-								<key>type</key>
-								<integer>0</integer>
-							</dict>
-							<key>name</key>
-							<string>spriteFrame</string>
-							<key>time</key>
-							<real>2.5333333015441895</real>
-							<key>type</key>
-							<integer>7</integer>
-							<key>value</key>
-							<array>
-								<string>TimBlinking/tim-idle2.png</string>
-								<string>Use regular file</string>
-							</array>
-						</dict>
-						<dict>
-							<key>easing</key>
-							<dict>
-								<key>type</key>
-								<integer>0</integer>
-							</dict>
-							<key>name</key>
-							<string>spriteFrame</string>
-							<key>time</key>
-							<real>2.5999999046325684</real>
+							<real>3.2666666507720947</real>
 							<key>type</key>
 							<integer>7</integer>
 							<key>value</key>
@@ -571,17 +391,17 @@
 			<key>chainedSequenceId</key>
 			<integer>0</integer>
 			<key>length</key>
-			<real>3</real>
+			<real>5</real>
 			<key>name</key>
 			<string>Default Timeline</string>
 			<key>offset</key>
-			<real>0.0</real>
+			<real>1.0055439472198486</real>
 			<key>position</key>
-			<real>0.0</real>
+			<real>5</real>
 			<key>resolution</key>
 			<real>30</real>
 			<key>scale</key>
-			<real>512</real>
+			<real>147.95506286621094</real>
 			<key>sequenceId</key>
 			<integer>0</integer>
 			<key>soundChannel</key>

@@ -9,10 +9,6 @@
 #import "MainScene.h"
 
 @implementation MainScene
-{
-    // physics node
-    CCPhysicsNode *_physicsNode;
-}
 
 #pragma mark - Lifecycle
 
